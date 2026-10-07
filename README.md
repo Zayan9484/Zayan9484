@@ -1,4 +1,4 @@
-## Hi there 👋
+# This repository will contain LearntoCloud.guide resources
 
 <!--
 **Zayan9484/Zayan9484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
